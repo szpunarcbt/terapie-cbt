@@ -1,4 +1,4 @@
 ---
-title: Contact Me
+title: Skontaktuj się
 breadcrumb: Contact
 ---
