@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
-languageCode = "pl"
+languageCode = "pl-pl"
 paginate = 6
 theme = "portio"
 title = "Portio"

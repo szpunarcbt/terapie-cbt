@@ -1,13 +1,14 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Dzień dobry, nazywam się Małgorzata Szpunar
 content: >
-  # I am here for your personal business
+  # Zależy mi na tym, by pomagać.
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dolor, scelerisque quis pulvinar id, euismod vel quam. 
+  Curabitur feugiat urna non odio aliquam, non fermentum sem tempus. 
+  Curabitur eu tincidunt urna. Morbi lacinia faucibus massa nec laoreet. Praesent placerat quis tellus at faucibus.
+buttonName: Kontakt
 buttonURL: contact
-image: images/hero/2960351.jpg
+image: images/hero/hero.jpg
 #videoThumb: images/hero/popup-thumb.png
 #videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
