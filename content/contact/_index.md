@@ -1,4 +1,4 @@
 ---
 title: Skontaktuj się
-breadcrumb: Contact
+breadcrumb: Kontakt
 ---
