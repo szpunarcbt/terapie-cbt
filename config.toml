@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://unique-froyo-7790de.netlify.app/"
 languageCode = "pl-pl"
 paginate = 6
 theme = "portio"
