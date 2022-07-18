@@ -4,35 +4,35 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
-- type: document
-  path: data/hero.yml
-  label: Hero
-- type: document
-  path: data/aboutSection.yml
-  label: About
-- type: document
-  path: data/serviceSection.yml
-  label: Services
-- type: document
-  path: data/resumeSection.yml
-  label: Resume
-- type: document
-  path: data/skillSection.yml
-  label: Skills
+#- type: document
+#  path: data/hero.yml
+#  label: Hero
+#- type: document
+#  path: data/aboutSection.yml
+#  label: O mnie
+#- type: document
+#  path: data/serviceSection.yml
+#  label: Services
+#- type: document
+#  path: data/resumeSection.yml
+#  label: Resume
+#- type: document
+#  path: data/skillSection.yml
+#  label: Skills
 - type: document
   path: data/testimonialSection.yml
-  label: Testimonials
+  label: Opinie
 - type: document
   path: data/blogSection.yml
-  label: Blog Section
-- type: directory
-  path: content/portfolio
-  label: Portfolio
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contact
-  label: Contact
+  label: Sekcja Bloga
+#- type: directory
+#  path: content/portfolio
+#  label: Portfolio
+#  create: all
+#  match: "**/*"
+#- type: directory
+#  path: content/contact
+#  label: Contact
   create: all
   match: "**/*"
 - type: directory
@@ -42,7 +42,7 @@ sections:
   match: "**/*"
 - type: document
   path: config.toml
-  label: Config File
+  label: Konfiguracja
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
