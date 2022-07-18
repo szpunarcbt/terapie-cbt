@@ -7,14 +7,14 @@ sections:
 - type: document
   path: data/blogSection.yml
   label: Sekcja Bloga
+- type: document
+  path: data/testimonialSection.yml
+  label: Opinie
 - type: directory
   path: content/blog
   label: Blog
   create: all
   match: "**/*"
-- type: document
-  path: data/testimonialSection.yml
-  label: Opinie
 - type: document
   path: config.toml
   label: Konfiguracja
