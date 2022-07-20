@@ -71,7 +71,7 @@ email = "mszpunar@op.pl"
 phone = "+48 697 777 020"
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
+APIkey = "AIzaSyBFCgRqOFXFOGb6EO1QOBtYBgDhtsQKkAY"
 latitude = "54.374133275438695"
 longitude = "18.61425223438593"
 pinImage = "images/pin.png"
