@@ -9,20 +9,24 @@ title: >
   
 service:
   - content: >
-      #### Oferta 1 
+      #### Terapia indywidualna
+        - Zaburzenia lękowe
+        - Zaburzenia nastroju
+        - Kryzysy
+        - Konsultacje on-line
+    image: images/service/health1.svg
+  - content: >
+      #### Coaching biznesowy 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/health1.svg
   - content: >
-      #### Oferta 2 
+      #### Live-Coaching
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Definiowanie celów indywidualnych, rozwojowych w różnorodnych obszarach życia (mieszkania, rozwoju zawodowego, osobistego, realizacji marzeń)
     image: images/service/health1.svg
-  - content: >
-      #### Oferta 3
+  
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/health1.svg
+
+
