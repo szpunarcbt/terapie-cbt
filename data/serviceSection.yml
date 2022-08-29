@@ -3,10 +3,7 @@ enable: true
 topTitle: Jak pomagam?
 title: >
   ## Oferta
-    Parę słów ogółem, pod spodem konkretne usługi typu terapia indywidualna, terapia par itp.
-
-
-  
+ 
 service:
   - content: >
       #### Terapia indywidualna
@@ -18,8 +15,7 @@ service:
   - content: >
       #### Coaching biznesowy 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Głównym zadaniem tego rodzaju coachingu jest wspieranie przedsiębiorców w realizacji ich przedsięwzięć i zaplanowanej strategii oraz doskonalenie pracowników.
     image: images/service/health1.svg
   - content: >
       #### Live-Coaching
