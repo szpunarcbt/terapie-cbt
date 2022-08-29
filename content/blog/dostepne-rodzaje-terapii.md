@@ -1,6 +1,5 @@
 +++
 date = 2022-08-29T15:00:00Z
-draft = true
 featureImage = "/images/people-g9c4629acd_1920.jpg"
 postImage = "/images/helping-g0463bbcde_1920.jpg"
 title = "Dostępne rodzaje terapii."
