@@ -1,9 +1,10 @@
 ---
 enable: true
-topTitle: Jak pomagam?
-title: >
-  ## Oferta
- 
+topTitle: Pierwsze spotkanie gratis, następne 100zł/50min
+      
+title: > 
+      ## Oferta
+       
 service:
   - content: >
       #### Terapia indywidualna
@@ -11,6 +12,9 @@ service:
         - Zaburzenia nastroju
         - Kryzysy
         - Konsultacje on-line
+
+
+        
     image: images/service/health1.svg
   - content: >
       #### Coaching biznesowy 
@@ -18,7 +22,7 @@ service:
       Głównym zadaniem tego rodzaju coachingu jest wspieranie przedsiębiorców w realizacji ich przedsięwzięć i zaplanowanej strategii oraz doskonalenie pracowników.
     image: images/service/health1.svg
   - content: >
-      #### Live-Coaching
+      #### Life-Coaching
 
       Definiowanie celów indywidualnych, rozwojowych w różnorodnych obszarach życia (mieszkania, rozwoju zawodowego, osobistego, realizacji marzeń)
     image: images/service/health1.svg
