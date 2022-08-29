@@ -20,12 +20,12 @@ service:
       #### Coaching biznesowy 
 
       Głównym zadaniem tego rodzaju coachingu jest wspieranie przedsiębiorców w realizacji ich przedsięwzięć i zaplanowanej strategii oraz doskonalenie pracowników.
-    image: images/service/health1.svg
+    image: images/service/buisness.svg
   - content: >
       #### Life-Coaching
 
       Definiowanie celów indywidualnych, rozwojowych w różnorodnych obszarach życia (mieszkania, rozwoju zawodowego, osobistego, realizacji marzeń)
-    image: images/service/health1.svg
+    image: images/service/life-coach.svg
   
 
 

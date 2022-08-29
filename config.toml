@@ -40,25 +40,29 @@ weight = 6
 # Sitemap Menu
 [[menu.sitemap]]
 name = "O mnie"
-url = "about"
+url = "#about"
 weight = 1
 #[[menu.sitemap]]
-#name = "Frequently Ask Question"
-#url = "#"
+#name = "Oferta"
+#url = "#service"
 #weight = 2
 #[[menu.sitemap]]
-#name = "Polityka prywatności"
-#url = "#"
+#name = "Opinie"
+#url = "#testimonials"
 #weight = 2
-#[[menu.sitemap]]
-#name = "Ostatni artykuł"
-#url = "#"
-#weight = 3
+[[menu.sitemap]]
+name = "Blog"
+url = "blog"
+weight = 2
+[[menu.sitemap]]
+name= "Kontakt"
+url = "contact"
+weight = 3
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Wszystkie prawa zastrzeżone © Cudostrona.pl"
+copyright = "Wszystkie prawa zastrzeżone © [cudostrona.pl](https://cudostrona.pl)"
 footerLogo = "images/contact/navbar1.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.933332mm"
+   height="15.23999mm"
+   viewBox="0 0 16.933333 15.239991"
+   version="1.1"
+   id="svg13514"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="buisness.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13516"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-589.79848"
+     inkscape:cy="175.98826"
+     inkscape:window-width="1280"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs13511" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-74.589248,-101.61253)">
+    <path
+       d="m 90.675915,104.9992 h -5.080001 a 0.84666646,0.84666646 0 0 0 -0.846666,0.84666 v 2.54 h -1.693335 v -5.92667 a 0.84666646,0.84666646 0 0 0 -0.846666,-0.84666 h -6.773334 a 0.84666646,0.84666646 0 0 0 -0.846665,0.84666 v 13.54666 a 0.84666646,0.84666646 0 0 0 0.846665,0.84667 h 15.240002 a 0.84666646,0.84666646 0 0 0 0.846666,-0.84667 v -10.15999 a 0.84666646,0.84666646 0 0 0 -0.846666,-0.84666 z m -11.006668,-0.84667 h 1.693334 v 1.69333 h -1.693334 z m -1.693333,8.46665 h -1.693333 v -1.69332 h 1.693333 z m 0,-3.38666 h -1.693333 v -1.69332 h 1.693333 z m 0,-3.38666 h -1.693333 v -1.69333 h 1.693333 z m 3.386667,6.77332 h -1.693334 v -1.69332 h 1.693334 z m 0,-3.38666 h -1.693334 v -1.69332 h 1.693334 z m 7.62,3.38666 h -1.693334 v -1.69332 h 1.693334 z m 0,-3.38666 h -1.693334 v -1.69332 h 1.693334 z"
+       id="path6969"
+       style="fill:#5d78ff;fill-opacity:1;stroke-width:0.846667" />
+  </g>
+</svg>
