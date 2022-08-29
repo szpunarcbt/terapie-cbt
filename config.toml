@@ -46,14 +46,14 @@ weight = 1
 #name = "Frequently Ask Question"
 #url = "#"
 #weight = 2
-[[menu.sitemap]]
-name = "Polityka prywatności"
-url = "#"
-weight = 2
-[[menu.sitemap]]
-name = "Ostatni artykuł"
-url = "#"
-weight = 3
+#[[menu.sitemap]]
+#name = "Polityka prywatności"
+#url = "#"
+#weight = 2
+#[[menu.sitemap]]
+#name = "Ostatni artykuł"
+#url = "#"
+#weight = 3
 
 [params]
 blogPageURL = "blog"
@@ -66,7 +66,7 @@ logo = "images/site-navigation/logo1.png"
 
 [params.address]
 address = "Fiszera 6/1 80-231 Gdańsk"
-email = "mszpunar@op.pl"
+email = "m.szpunar@op.pl"
 #openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+48 697 777 020"
 
