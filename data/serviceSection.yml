@@ -1,9 +1,11 @@
 ---
 enable: true
-topTitle: Pierwsze spotkanie gratis, następne 100zł/50min
+topTitle: Oferta
       
 title: > 
-      ## Oferta
+      ## Jak pomagam?
+      
+      Pierwsze spotkanie jest gratis, następne 150zł/50min
        
 service:
   - content: >

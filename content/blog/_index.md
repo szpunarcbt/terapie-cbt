@@ -1,7 +1,5 @@
 ---
-title: Ostatni Artykuł
+title: Ostatnie posty
 
 ---
-\####Czym się zajmuję
-
-Prowadzę terapię w nurcie **poznawczo-behawioralnym**, pracując głównie z pacjentami cierpiącymi na depresję, lęk społeczny, lęk uogólniony, bezsenność, fobie różnego rodzaju...
+Zapraszam do zapoznania się z dokładniejszymi informacjami na temat mojej działalności.

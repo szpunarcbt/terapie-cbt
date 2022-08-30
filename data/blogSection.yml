@@ -2,10 +2,6 @@
 enable: true
 topTitle: Blog
 title: >
-  ## Ostatni artykuł
-
-  #### Czym się zajmuję
-
-  Prowadzę terapię w nurcie poznawczo-behawioralnym, pracując głównie z pacjentami cierpiącymi na depresję, lęk społeczny, lęk uogólniony, bezsenność, fobie różnego rodzaju...
+  ## Ostatnie posty
 
 buttonTarget: blog
