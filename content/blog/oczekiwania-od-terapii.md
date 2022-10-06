@@ -1,6 +1,5 @@
 +++
 date = 2022-10-05T22:00:00Z
-draft = true
 featureImage = "/images/people-g9c4629acd_1920.jpg"
 postImage = ""
 title = "Oczekiwania od terapii"
