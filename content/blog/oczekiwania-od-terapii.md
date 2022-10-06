@@ -1,6 +1,6 @@
 +++
 date = 2022-10-05T22:00:00Z
-featureImage = "/images/people-g9c4629acd_1920.jpg"
+featureImage = "/images/helping-g0463bbcde_1920.jpg"
 postImage = ""
 title = "Oczekiwania od terapii"
 
