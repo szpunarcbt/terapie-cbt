@@ -62,7 +62,7 @@ weight = 3
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Wszystkie prawa zastrzeżone © Cudostrona.pl"
+copyright = "Wszystkie prawa zastrzeżone © Cudostrona"
 footerLogo = "images/contact/navbar1.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
