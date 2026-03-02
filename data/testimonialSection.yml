@@ -1,19 +1,19 @@
 ---
-enable: false
+enable: true
 topTitle: Opinie
 title: >
-  ## Co piszą o mnie inni?
+  ## Co mówią Moi Pacjenci?
 
 testimonial:
-  - name: Adam Kowalski
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Lip 10, 2022
+  - name: Wojciech B.
+    comment: Z całej palety Trójmiejskich psychoterapeutów gorąco polecam Panią Małgorzatę Szpunar za jej profesjonalizm i wyjątkowe podejście do pacjenta. Sposób w jaki prowadzi terapię daje mnóstwo świadomości, co pozwala na głębokim poziomie zrozumieć i poczuć pod wpływem jakich schematycznych myśli i emocji się funkcjonowało. Bardzo Pani dziękuję za poświęcony czas, wsparcie i inspiracje.
+    time: ""
     star: 5
-  - name: Janina Kowalska
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Lip 10, 2022
-    star: 4
-  - name: Sz. P. Prezes
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Lip 10, 2022
-    star: 3
+  - name: Oskar
+    comment: Profesjonalne podejście do klienta, komfortowy gabinet, świetna lokalizacja. Polecam panią Szpunar na wszystkie potrzeby pracy nad sobą, zwłaszcza w kierunku poznawczo-behawioralnym.
+    time: ""
+    star: 5
+  - name: Justyna K.
+    comment: Polecam Panią Małgorzatę. Bogate doświadczenie w swojej pracy, konkretna, rzeczowa psychoterapeutka. Wspaniały wykładowca UG Gdańsk.
+    time: ""
+    star: 5
